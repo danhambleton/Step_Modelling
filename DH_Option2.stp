@@ -5,6 +5,8 @@ HEADER;
  */
 /* OPTION: using custom schema-name function */
 
+/* SOME NEW THINGS!
+
 FILE_DESCRIPTION(
 /* description */ (''),
 /* implementation_level */ '2;1');
